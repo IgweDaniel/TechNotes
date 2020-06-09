@@ -3,7 +3,7 @@
     "android": {
       "config": {
         "googleMaps": {
-          "apiKey": "AIzaSyBVBnDdKMaPMvuIWW1iUdtPh8m_yy3L4yo"
+          "apiKey": ""
         }
       }
     },
